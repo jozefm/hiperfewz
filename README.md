@@ -1,2 +1,2 @@
 # hiperfewz
-hiperfewz
+hiperfewz.org
